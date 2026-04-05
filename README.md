@@ -1,2 +1,7 @@
-# currency-converter-website
-Currency Converter Website — Built with HireBots.UK AI Agents
+# Currency Converter Website
+
+Built with [HireBots.UK](https://hirebots.uk) AI Agents.
+
+## Preview
+
+Open `index.html` in your browser to see the live preview.
